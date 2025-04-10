@@ -24,3 +24,23 @@ To start using our project, follow these simple steps:
 3. Enjoy the features!
 
 ## Connect With Us
+
+For more details, visit our website at [My Project Website](https://zannager.github.io/skills-github-pages/).
+
+Or, feel free to check out the source code on our [GitHub Repository](https://github.com/zannager/skills-github-pages).
+
+## Code Example
+
+Here’s a simple code snippet:
+
+```react
+export default function SimpleContainer() {
+  return (
+    <React.Fragment>
+      <CssBaseline />
+      <Container maxWidth="sm">
+        <Box sx={{ bgcolor: '#cfe8fc', height: '100vh' }} />
+      </Container>
+    </React.Fragment>
+  );
+}
