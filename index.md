@@ -1,8 +1,8 @@
 ---
-title: Welcome to my blog
+title: My First Blog Post
 ---
 
-# Welcome to My Homepage
+# Welcome to My Page
 
 Welcome to my project! This is the homepage where you can find important information about what we're working on.
 
