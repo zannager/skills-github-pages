@@ -44,3 +44,14 @@ export default function SimpleContainer() {
     </React.Fragment>
   );
 }
+```
+## What's Next?
+We’re currently working on:
+
+Adding dark mode support 🌙
+
+Expanding the documentation 📚
+
+Integrating more UI components 🔧
+
+Stay tuned — more updates are coming soon!
