@@ -56,5 +56,4 @@ Integrating more UI components 🔧
 
 Stay tuned — more updates are coming soon!
 
-### To do
-To intentionally remove this by creating an issue and submit a PR to see how it will behave.
+### Enter new features here
