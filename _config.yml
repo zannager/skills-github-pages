@@ -1,1 +1,15 @@
 theme: minima
+title: "Your Site Title"
+author: "Your Name"
+description: "A brief description of your site or project"
+email: "your-email@example.com" # Optional
+
+# Social media links (optional)
+social_links:
+  github: zannager
+  # twitter: your-twitter-handle
+  # linkedin: your-linkedin-profile
+
+# Site settings
+show_excerpts: true  # Show post excerpts on homepage
+permalink: /posts/:title/
